@@ -1,3 +1,6 @@
+[About me](#About-me) [Awards](#awards)
+
+
 # About me
 <div>
 <p>
@@ -8,7 +11,7 @@
 </p>
 </div> 
 
-## Awards
+# Awards
 
 ### GRS 29-Italy 2020 award for the three best master's degree theses in geosciences and remote sensing 
 <div> 
