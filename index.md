@@ -1,6 +1,7 @@
+# About me
+
 ### [About me](#About-me) [|]() [Awards](awards.md) [|]() [Pubblications](pubblications.md) [|]() [Teaching](teaching.md) 
 
-# About me
 <div>
 <p>
     <img src="imgs/alessandro_sebastianelli.jpg" width="230" style="float: left; padding: 0px 15px 0px 15px"/>
