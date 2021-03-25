@@ -1,4 +1,4 @@
-### [Home](index.md)
+[Home](index.md)
 
 # Teaching
 I am a member of the examination committees for Telecommunication Networks and for Signal Theory and Processing. I have done teaching support for the PhD course "Optical and Radar Remote Sensing" at [University of Sannio](https://www.unisannio.it).

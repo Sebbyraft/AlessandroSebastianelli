@@ -1,4 +1,4 @@
-[Awards ~ ](awards.md) [ Pubblications ~ ](pubblications.md) [ Teaching](teaching.md) 
+[Awards ~ ](awards.md) [ Pubblications ~ ](pubblications.md) [ Teaching ~ ](teaching.md) [ CV ](cv.md) 
 
 
 # About me
@@ -12,9 +12,14 @@
 </div> 
 
 ## Contacts
-- Academic email
-- Private email
-- Linkedin
-- Twitter
-- Git-Hub
-- 
+- Academic email: sebastianelli@unisannio.it
+- Private email: alessandro.sebastianelli1995@gmail.com
+
+<p>
+  <a href="https://www.linkedin.com/in/alessandro-sebastianelli-58545915b/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/Sebbyraft" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
