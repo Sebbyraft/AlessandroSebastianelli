@@ -12,13 +12,14 @@
 ## Awards
 
 ### GRS 29-Italy 2020 award for the three best master's degree theses in geosciences and remote sensing 
+<div> 
 <p>
-    <embed src="docs/grs29_award.pdf" width="400px" height="400px" style="float: left; padding: 0px 15px 0px 15px"/>
+    <img src="imgs/grs29_award.png" width="400" height="300" style="float: left; padding: 0px 15px 0px 15px"/>
     <p style="padding: 0px 15px 0px 15px" align="justify">
-    He is also a reviewer of scientific articles in his field of expertise. H He was the winner of the GRS 29-Italy 2020 award for the three best master's degree theses in geosciences and remote sensing, organised by the Geoscience and Remote Sensing Society [GRSS](http://www.grss-ieee.org) and by the [IEEE Italy Section](http://sites.ieee.org/italy/), [iChapter GRS29 Central-North Italy GRS29-CNI](https://cispio.diet.uniroma1.it/marzano/ieee-grs/index.html) e [GRS29 South Italy GRS29-SI](http://ieee.uniparthenope.it/chapter/default.html).
+    He was the winner of the GRS 29-Italy 2020 award for the three best master's degree theses in geosciences and remote sensing, organised by the Geoscience and Remote Sensing Society <a href="http://www.grss-ieee.org">GRSS</a> and by the <a href="http://sites.ieee.org/italy/">IEEE Italy Section</a>, <a href="https://cispio.diet.uniroma1.it/marzano/ieee-grs/index.html">iChapter GRS29 Central-North Italy GRS29-CNI</a> e <a href="http://ieee.uniparthenope.it/chapter/default.html">GRS29 South Italy GRS29-SI</a>.
     </p>
 </p> 
-
+</div> 
 
 # Pubblications
 He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing (https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ). He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” (https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
