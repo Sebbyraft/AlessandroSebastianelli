@@ -1,6 +1,5 @@
 [Awards ~ ](awards.md) [ Pubblications ~ ](pubblications.md) [ Teaching ~ ](teaching.md) [ CV ](cv.md) 
 
-
 # About me
 <div>
 <p>
